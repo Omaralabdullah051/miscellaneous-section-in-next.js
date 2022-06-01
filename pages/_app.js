@@ -11,10 +11,6 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
-      <Head>
-        <title>About</title>
-        <meta name="description" content="All about next.js" />
-      </Head>
       <Header />
       <Component {...pageProps} />
       <Footer />
