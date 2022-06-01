@@ -1,6 +1,6 @@
 import Image from "next/image";
-import SetHead from "../components/Head";
-import styles from "../styles/Home.module.css";
+import SetHead from "components/Head";
+import styles from "styles/Home.module.css";
 
 export default function Home() {
   return (

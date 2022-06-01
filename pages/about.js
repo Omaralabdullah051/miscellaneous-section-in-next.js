@@ -1,6 +1,6 @@
-import Footer from "../components/Footer";
-import SetHead from "../components/Head";
-import styles from "../styles/About.module.css";
+import Footer from "components/layout/Footer";
+import SetHead from "components/Head";
+import styles from "styles/About.module.css";
 
 const About = () => {
   return (
