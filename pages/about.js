@@ -1,12 +1,11 @@
 import Footer from "components/layout/Footer";
 import SetHead from "components/Head";
-import styles from "styles/About.module.css";
 
 const About = () => {
   return (
     <>
       <SetHead title="About" content="All about next.js" />
-      <h1 className={styles.content}>About</h1>
+      <h1 className="content">About</h1>
     </>
   );
 };
